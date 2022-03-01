@@ -20,6 +20,9 @@ entrusting me with its care.
 All existing references to `iwasrobbed/Down` should redirect to this repository. However, It is recommended to update those urls to point
 to this repository.
 
+
+**This is a fork for internal BetterUp usage to fix an incompatibility with SVGKit. We'll move back to using the original Down repo when our open PR is addressed: https://github.com/johnxnguyen/Down/pull/281**
+
 #### Maintainers
 
 - [John Nguyen](https://github.com/johnxnguyen)
